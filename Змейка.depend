@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1575300946 source:c:\users\ira\1 курс\ПБО\Змейка\змейка.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+
